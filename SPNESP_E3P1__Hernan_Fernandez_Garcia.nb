@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    608518,      10690]
+NotebookDataLength[    608547,      10691]
 NotebookOptionsPosition[    601258,      10576]
-NotebookOutlinePosition[    601724,      10595]
-CellTagsIndexPosition[    601681,      10592]
+NotebookOutlinePosition[    601753,      10596]
+CellTagsIndexPosition[    601710,      10593]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -10577,7 +10577,8 @@ ykqSQz9ii7QQpevLiorWzXi3SiGSjM+itWVTz6MKH7kl/h9oJUoy\
 Editable->True,
 Saveable->False,
 InitializationCellEvaluation->True,
-WindowMargins->{{0, Automatic}, {0, Automatic}},
+WindowSize->{Full, Full},
+WindowMargins->{{278, Automatic}, {84, Automatic}},
 SpellingDictionaries->{"CorrectWords"->{
  "Langevin", "Instituto", "Balseiro", "proc"}},
 FrontEndVersion->"12.0 for Linux x86 (64-bit) (April 8, 2019)",
